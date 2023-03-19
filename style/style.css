@@ -1,0 +1,13 @@
+.img-2{
+    width: 140px;
+    height: 140px;
+    position: relative;
+    top: -80px;
+    left: 104px;
+    border: 7px splid #FFFFFF;
+}
+.img-2 img{
+    border-radius: 50%;
+    height: 100%;
+    border: 7px solid #076655;
+}
